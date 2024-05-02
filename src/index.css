@@ -1,0 +1,31 @@
+/*
+#F5EFEB
+#CEC2B9
+#AE977D
+#595D55
+#4F482A
+#9C8F48
+#886022
+#823717
+#912F24
+#8BAD58
+#687A4D
+#003049
+#114870
+#bf8726
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Special+Elite&display=swap');
+/*
+font-family: "Josefin Sans", sans-serif;
+font-family: "Montserrat", sans-serif;
+font-family: "Special Elite", system-ui;
+font-family: "Satisfy", cursive;
+font-family: "Lato", sans-serif;
+*/
+
+button {
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
